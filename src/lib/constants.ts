@@ -1,0 +1,15 @@
+export const CELL_PX = 80
+export const SECONDS_PER_CELL = 1
+export const LOG_STEP = Math.log(1.0001)
+export const PRICE_BUFFER_CAPACITY = 36_000
+export const VIEWPORT_ANCHOR_RATIO = 0.25
+export const BET_LOCKOUT_MS = 2_000
+export const THROTTLE_UI_MS = 16
+export const WS_RECONNECT_BASE_MS = 1_000
+export const WS_RECONNECT_MAX_MS = 30_000
+export const ZOOM_MIN = 0.3
+export const ZOOM_MAX = 4
+export const AXIS_BOTTOM_HEIGHT = 24
+export const AXIS_RIGHT_WIDTH = 72
+export const BG_COLOR = '#070707'
+export const DEFAULT_BET_AMOUNT = 100
