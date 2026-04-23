@@ -1,7 +1,7 @@
 {
   "project_name": "Griddy",
   "repo_url": "https://github.com/qed-lgtm/griddy-trading",
-  "commit_sha": "0dc8ad6b460e9e2d324ea4c453b17fc0675c1dab",
+  "commit_sha": "4cd87c14c804a6301958d447acd9f3ab3a17d05a",
   "rollup_chain_id": "evm-1",
   "deployed_address": "0x...",
   "vm": "evm",
